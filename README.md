@@ -16,4 +16,3 @@ Generalist
 - Community Management
     - Mirket
     - Birlikte İhracat
-    - Hobi olarak ()
