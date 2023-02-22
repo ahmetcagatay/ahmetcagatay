@@ -1,1 +1,2 @@
-![Logo](https://via.placeholder.com/150x150)
+## Connect From
+[Linkedin](https://www.linkedin.com/in/ahmet-çağatay-61b2281aa/)
